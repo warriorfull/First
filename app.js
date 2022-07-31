@@ -10,6 +10,7 @@ const App = () => {
         React.createElement(Person, {name: 'Yihua', occupation: 'instructor'}, null),
         React.createElement(Person, {name: 'Andrei', occupation: 'Lead instructor'}, null),
         React.createElement(Person, {name: 'Yihua', occupation: 'teacher'}, null),
+	React.createElement(Person, {name: 'Yihua', occupation: 'teacher'}, null),
     ]);
 };
 
